@@ -6,8 +6,8 @@ int lengthStr = 3;
 for (int i = 0; i < array.Length; i++)
 {
     str = array[i];
-    
-    Console.Write($" {array[i]} ");
+
+
     if (str.Length <= lengthStr)
     {
         Console.Write($" {array[i]} ");
